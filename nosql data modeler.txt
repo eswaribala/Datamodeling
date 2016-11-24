@@ -1,0 +1,2 @@
+http://www.objgen.com/json
+http://som-research.uoc.edu/tools/jsonDiscoverer/#/simple
